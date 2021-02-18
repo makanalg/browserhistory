@@ -14,24 +14,6 @@ img {
   margin-right: 15px;
 }
 
-.left {
-  float: left;
-  width: 300px;
-  padding: 1em;
-}
-
-.right {
-  float: right;
-  width: 300px;
-  padding: 1em;
-}
-
-.middle {
-  margin-left: 300px;
-  margin-right: 300px;
-  padding: 1em;
-}
-
 #navbar ul {
   list-style-type: none;
   margin: 0;
